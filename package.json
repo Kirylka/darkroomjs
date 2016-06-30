@@ -1,14 +1,13 @@
 {
-  "name": "darkroom",
+  "name": "darkroom-ext",
   "description": "Extensible image editing tool via HTML canvas",
-  "version": "2.0.0",
+  "version": "1.0.0",
   "license": "MIT",
-  "homepage": "https://mattketmo.github.io/darkroomjs",
   "repository": {
     "type": "git",
     "url": "https://github.com/mattketmo/darkroomjs.git"
   },
-  "author": "Matthieu Moquet <matthieu@moquet.net> (http://moquet.net/)",
+  "author": "Matthieu Moquet <matthieu@moquet.net> (http://moquet.net/), Kiryl Anoshka <kirylanoshko@gmail.com>",
   "dependencies": {},
   "devDependencies": {
     "gulp": "^3.9.0",
